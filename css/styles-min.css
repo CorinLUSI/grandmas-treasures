@@ -1,1 +1,1308 @@
-@import url(https://fonts.googleapis.com/css?family=Merriweather:300,400,400i,700|Montserrat:800|Great+Vibes);:root{--highlight:#ef8379;--hover:#be7974;font-size:15px}#html-container{background:-webkit-gradient(linear,left bottom,right top,from(#eacda3),to(#d6ae7b));background:-webkit-linear-gradient(bottom left,#eacda3,#d6ae7b);background:-o-linear-gradient(bottom left,#eacda3,#d6ae7b);background:linear-gradient(to top right,#eacda3,#d6ae7b);width:100%;font-size:100%;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%;font-variant-ligatures:none;-webkit-font-variant-ligatures:none;text-rendering:optimizeLegibility;-moz-osx-font-smoothing:grayscale;font-smoothing:antialiased;-webkit-font-smoothing:antialiased;text-shadow:rgba(0,0,0,.01) 0 0 1px}#html-container>body{background:-webkit-repeating-linear-gradient(left,rgba(214,174,123,.2),rgba(214,174,123,.2) 5%,rgba(255,255,255,.2) 5%,rgba(255,255,255,.2) 10%);background:-o-repeating-linear-gradient(left,rgba(214,174,123,.2),rgba(214,174,123,.2) 5%,rgba(255,255,255,.2) 5%,rgba(255,255,255,.2) 10%);background:repeating-linear-gradient(to right,rgba(214,174,123,.2),rgba(214,174,123,.2) 5%,rgba(255,255,255,.2) 5%,rgba(255,255,255,.2) 10%);background-blend-mode:multiply;width:100%;font-family:Merriweather,serif;overflow-x:hidden}.btn,button{background-color:var(--highlight);color:#fff}.btn:hover,button:hover{background-color:var(--hover);color:#fff}a.btn:hover{color:#fff}a,h1,h2,h3,h4,h5{color:var(--highlight)}a:hover{color:var(--hover);text-decoration:none}h1,h2,h3,h4{font-family:'Great Vibes',cursive}h5{font-family:Merriweather,serif;font-weight:700;font-size:15px;margin-bottom:.1rem}.nav-link{color:#fff}.nav-link.invert,.nav-link:hover{color:var(--hover)}.navbar .navbar-toggle .navbar-toggler-icon,.navbar-toggle.collapsed,.store-adress-field a,.store-adress-field h4{color:#fff}#html-container .fa{font-size:25px}#html-container .footer{width:100%;height:auto;position:relative;bottom:0;background:0 0;max-width:1680px}.content,.navigation{width:80%;margin:auto;position:relative}#html-container .footer .navbar-nav:first-of-type{background-color:var(--highlight)}.wrapper{background:#fff;max-width:1200px;height:100%;margin:auto;-webkit-box-shadow:0 0 20px 0 rgba(0,0,0,.3);box-shadow:0 0 20px 0 rgba(0,0,0,.3)}.navigation{height:20%;background:rgba(255,255,255,.5)}.content{height:40%;background:rgba(77,77,77,.5);display:-webkit-box;display:-ms-flexbox;display:flex;-webkit-box-orient:horizontal;-webkit-box-direction:normal;-ms-flex-direction:row;flex-direction:row;-ms-flex-wrap:wrap;flex-wrap:wrap}.content-box{width:calc(90% / 3);height:100%;position:relative;background:rgba(33,33,33,.5);float:left;margin:0 calc(5% / 3)}.info{height:30%;width:80%;position:relative;margin:auto;background:red}.info-content{height:100%;width:calc(93% / 2);position:relative;float:left;background:#fff;margin:0 calc(3.5% / 2)}.frontpage_square{position:relative;overflow:hidden;padding-bottom:100%}.frontpage_square img,.gm-logo{position:absolute}.container-fluid{padding:0}.gm-logo{width:auto;height:50px;z-index:100;left:10px;top:10px;margin:auto}#html-container .footer .navbar{background-color:#fff}#html-container #navbar-top,.store-adress-field{background-color:var(--highlight)}table#opening-hours,table#opening-hours td,table#opening-hours th{padding:0;border:0}table#opening-hours th{font-weight:400}table#opening-hours td{text-align:right}.bg-menu-container{display:none}.navbar-dark .navbar-toggler{color:#fff;border-color:#fff}.navbar-dark .navbar-toggler-icon{display:inline-block;width:1.5em;height:1.5em;vertical-align:middle;content:"";background-repeat:no-repeat;background-position:center;background-size:100%;background-attachment:scroll;background-origin:padding-box;background-clip:padding-box;background-color:rgba(0,0,0,0)}.news-caption-container{position:absolute;top:130px;background-image:url(../img/bg-news-caption.png);background-repeat:no-repeat;background-position:center;background-size:contain}.policy li{font-weight:300;line-height:18px;font-size:14px}@media (max-width:575px){#home-news,#home-news>div{margin-left:0;margin-right:0}#home-news>div,.container{padding-left:0;padding-right:0}#html-container{background:0 0}#html-container>body{background:0 0;background-blend-mode:normal}#html-container .footer{width:100%;height:40px;position:fixed;bottom:0;background:0 0;left:0}#html-container .footer .flex-column{width:100%}#html-container .footer .navbar{padding:0}.flex-column-after,.flex-column-before{display:none}.wrapper{-webkit-box-shadow:none;box-shadow:none}#home-news{height:calc(100vh - 69px);z-index:1000}.news-caption{padding-top:15vh}.news-caption h3{margin-top:0}.news-caption p{height:50vh;background-color:#fff}.paragraph{padding:24px 24px 0;font-weight:300;line-height:18px;font-size:14px;text-align:justify;word-spacing:0;letter-spacing:-.4px;margin-bottom:10px}#about-us,#store-location{position:relative;height:100vh;left:0;background-color:#fff;padding-top:5vh;border-top:solid 8px var(--highlight)}#location,#opening-hours{padding:6px 24px 0;margin-bottom:0}.news-caption-container{background-size:cover;bottom:0}h1{line-height:1}.lead{font-size:1rem}h3{text-align:center;margin-bottom:0}#about-us{top:101%;display:block;width:100%}#store-location{top:201%}.store-map iframe{width:100%;height:25vmax;padding-right:24px;padding-left:24px}#store-container .store-map iframe{margin-bottom:34px;height:50vh;padding:0;border-bottom:0}#gt-details{margin-bottom:0}.nav-tabs{border-bottom:1px solid var(--highlight)}.nav-tabs .nav-item.show .nav-link,.nav-tabs .nav-link.active{border-color:var(--highlight)var(--highlight)#fff}.nav-tabs .nav-link:focus,.nav-tabs .nav-link:hover{border-color:var(--highlight)var(--highlight)transparent}.product-container{background-image:url(../img/wheat-long-line.png);background-repeat:no-repeat;background-position:bottom;background-size:80%}#nav-tabContent .product-container:last-of-type{background-image:none}#accordion{padding-bottom:103px;border-top:1px solid var(--highlight)}.card{border-bottom:1px solid var(--highlight);border-radius:0}.card:last-of-type{border-bottom:0}#philosophy-text .paragraph:first-of-type{padding-top:0}#philosophy-text .paragraph{padding-top:12px}h5+small{display:none}#navbar-top.navbar{padding:0 0 .5rem;border-bottom:solid 1px #fff}button.navbar-toggler{margin:.75rem 1rem .5rem}}@media (max-width:575px) and (orientation:landscape){.news-caption-container{top:30px;background-size:cover;height:260px}.news-caption{padding-top:60px}.news-caption p{background-color:transparent}#about-us .col-12{-webkit-box-flex:0;-ms-flex:0 0 50%;flex:0 0 50%}.store-map iframe{width:50%}#shop-details{position:absolute;right:5vw;width:50%;bottom:12vw}#store-container .store-map iframe{width:100%}}@media (min-width:576px){#gt-details{margin-bottom:16%}.gm-logo{width:40%;margin:0 30%;height:auto;z-index:100;position:absolute;left:0;top:6px}.wrapper{padding-top:85px}.ribbon-container{z-index:0;position:relative;height:0;top:85px}.ribbon{width:510px;position:relative;background:red;height:56px;margin:auto;min-width:510px}.ribbon::after,.ribbon::before{content:"";position:absolute;display:block;bottom:-25px;border:25px solid #be7974;z-index:-1}.ribbon::before{left:-40px;border-right-width:40px;border-left-color:transparent}.ribbon::after{right:-40px;border-left-width:40px;border-right-color:transparent}.ribbon .ribbon-fold:after,.ribbon .ribbon-fold:before{content:"";position:absolute;display:block;border-style:solid;border-color:#9d4740 transparent transparent;bottom:-25px}.ribbon .ribbon-fold:before{left:0;border-width:25px 0 0 25px}.ribbon .ribbon-fold:after{right:0;border-width:25px 25px 0 0}.news-caption{background:0 0}.news-caption h3{margin-top:60px}.news-caption-container{position:absolute;top:55px;background-image:url(../img/bg-news-caption.png);background-repeat:no-repeat;background-position:center;background-size:contain}h3{text-align:center;margin-bottom:0}.paragraph{padding:24px 24px 0;font-weight:300;line-height:18px;font-size:14px;text-align:justify;word-spacing:-.9px;letter-spacing:-.4px;margin-bottom:12px}.paragraph.right{padding-right:20px}.paragraph.left{padding-left:0}.paragraph.home{height:114px;padding:24px 0 0}.main-img{border-top:0 hidden #fff;border-right:15px solid #fff;border-bottom:15px solid #fff;border-left:15px solid #fff;-webkit-box-shadow:0 2px 5px 0 rgba(0,0,0,.12);box-shadow:0 2px 5px 0 rgba(0,0,0,.12);width:650px;height:auto}.store-map{padding-top:24px;width:100%;height:auto}.store-map>iframe{border:thin solid var(--highlight);width:100%;height:auto}.border-left{border-left:1px solid var(--highlight);padding-left:18px}#html-container .flex-column{width:250px;height:80px;z-index:5}.flex-column-before{position:absolute;left:0;bottom:55px}.flex-column-after{position:absolute;right:0;bottom:55px}#store-container .list-group .list-group-item{width:100%;height:auto}.nav-tabs{border-bottom:1px solid var(--highlight)}.nav-tabs .nav-item.show .nav-link,.nav-tabs .nav-link.active{border-color:var(--highlight)var(--highlight)#fff}.nav-tabs .nav-link:focus,.nav-tabs .nav-link:hover{border-color:var(--highlight)var(--highlight)transparent}.product-container{background-image:url(../img/wheat-long-line.png);background-repeat:no-repeat;background-position:bottom}#nav-tabContent .product-container:last-of-type{background-image:none}}@media (min-width:576px) and (max-width:767px){#myTab h2{font-size:1.5rem}.wrapper{padding-top:50px}.ribbon-container{top:50px}}@media (min-width:768px){.collapse{display:block}.wrapper{padding-bottom:70px;max-width:768px}.ribbon-container{z-index:0;position:relative;height:0;top:85px}.ribbon,.ribbon-bottom{height:80px;margin:auto}.ribbon{width:690px;position:relative;background:red;min-width:690px}.ribbon::after,.ribbon::before{content:"";position:absolute;display:block;bottom:-25px;border:40px solid #be7974;z-index:-1}.ribbon::before{left:-55px;border-right-width:40px;border-left-color:transparent}.ribbon::after{right:-55px;border-left-width:40px;border-right-color:transparent}.ribbon .ribbon-fold:after,.ribbon .ribbon-fold:before{content:"";position:absolute;display:block;border-style:solid;border-color:#9d4740 transparent transparent;bottom:-25px}.ribbon .ribbon-fold:before{left:0;border-width:25px 0 0 25px}.ribbon .ribbon-fold:after{right:0;border-width:25px 25px 0 0}.ribbon-bottom{width:auto;position:absolute;background:0 0;min-width:auto}.ribbon-bottom::after,.ribbon-bottom::before{content:"";position:absolute;display:block;bottom:44px;border:15px solid #be7974;z-index:-1}.ribbon-bottom::after{right:-275px;border-left-width:30px;border-right-color:transparent}.ribbon-bottom::before{left:-25px;border-right-width:30px;border-left-color:transparent}.main-logo{width:170px;height:auto;top:-100px;position:relative;z-index:2}.logo-bg{position:absolute;top:calc(30px - (300px * .5));width:300px;height:300px;left:calc(50% - (300px * .5));z-index:1}#main-menu{background-image:url(../img/nav-bg-white.svg);background-size:contain;background-position:center;background-repeat:no-repeat}#main-menu.navbar-nav{height:64px;padding:0 5px}#main-menu .nav-item{width:15%;font-weight:300;font-size:17px}#main-menu .nav-item:nth-of-type(3){width:27%}.nav-link.btn{outline-offset:-5px;outline:#fff dashed 1px;font-weight:300;font-size:13px}#store-container #opening-hours,.paragraph,p{font-size:14px}.bg-menu{z-index:0;position:relative;top:-108px;width:90%}.bg-menu-container{top:0;position:relative;height:0;display:block}.news-caption{background:0 0}.news-caption h3{margin-top:60px}.news-caption-container{position:absolute;top:130px;background-image:url(../img/bg-news-caption.png);background-repeat:no-repeat;background-position:center;background-size:contain}h3{text-align:center;margin-bottom:0}.paragraph{padding:24px 24px 0;font-weight:300;line-height:18px;text-align:justify;word-spacing:-.9px;letter-spacing:-.4px;margin-bottom:12px}.paragraph.right{padding-right:20px}.paragraph.left{padding-left:0}.paragraph.home{height:114px;padding:24px 0 0}.main-img{border-top:0 hidden #fff;border-right:15px solid #fff;border-bottom:15px solid #fff;border-left:15px solid #fff;-webkit-box-shadow:0 2px 5px 0 rgba(0,0,0,.12);box-shadow:0 2px 5px 0 rgba(0,0,0,.12);width:650px;height:auto}.store-map{padding-top:24px;width:100%;height:auto}.store-map>iframe{border:thin solid var(--highlight);width:100%;height:auto}.border-left{border-left:1px solid var(--highlight);padding-left:18px}#html-container .flex-column{width:250px;height:80px;z-index:5}.flex-column-before{position:absolute;left:0;bottom:55px}.flex-column-after{position:absolute;right:0;bottom:55px}.nav-tabs{border-bottom:1px solid var(--highlight)}.nav-tabs .nav-item.show .nav-link,.nav-tabs .nav-link.active{border-color:var(--highlight)var(--highlight)#fff}.nav-tabs .nav-link:focus,.nav-tabs .nav-link:hover{border-color:var(--highlight)var(--highlight)transparent}.product-container{background-image:url(../img/wheat-long-line.png);background-repeat:no-repeat;background-position:bottom}#nav-tabContent .product-container:last-of-type{background-image:none}#store-container .store-map{width:100%;height:auto;padding-top:0}#store-container #opening-hours th{text-align:left}#store-container address{font-size:14px;margin-bottom:0}#store-container .list-group .list-group-item{width:100%;height:auto}}@media (min-width:992px){.wrapper{max-width:1200px}.ribbon-container{z-index:0;position:relative;height:0;top:85px}.ribbon,.ribbon-bottom{height:80px;margin:auto}.ribbon{width:930px;position:relative;background:red;min-width:930px}.ribbon::after,.ribbon::before{content:"";position:absolute;display:block;bottom:-25px;border:40px solid #be7974;z-index:-1}.ribbon::before{left:-55px;border-right-width:40px;border-left-color:transparent}.ribbon::after{right:-55px;border-left-width:40px;border-right-color:transparent}.ribbon .ribbon-fold:after,.ribbon .ribbon-fold:before{content:"";position:absolute;display:block;border-style:solid;border-color:#9d4740 transparent transparent;bottom:-25px}.ribbon .ribbon-fold:before{left:0;border-width:25px 0 0 25px}.ribbon .ribbon-fold:after{right:0;border-width:25px 25px 0 0}.ribbon-bottom{width:auto;position:absolute;background:0 0;min-width:auto}.ribbon-bottom::after,.ribbon-bottom::before{content:"";position:absolute;display:block;bottom:44px;border:15px solid #be7974;z-index:-1}.ribbon-bottom::after{right:-275px;border-left-width:30px;border-right-color:transparent}.ribbon-bottom::before{left:-25px;border-right-width:30px;border-left-color:transparent}.main-logo{width:220px;height:auto;top:-100px;position:relative;z-index:2}.logo-bg{position:absolute;top:calc(30px - (300px * .5));width:300px;height:300px;left:calc(50% - (300px * .5));z-index:1}#main-menu{background-image:url(../img/nav-bg-white.svg);background-size:contain;background-position:center;background-repeat:no-repeat}#main-menu.navbar-nav{height:65px;padding:0 5px}#main-menu .nav-item{width:12%;font-weight:300;font-size:17px}#main-menu .nav-item:nth-of-type(3){width:27%}.nav-link.btn{outline-offset:-5px;outline:#fff dashed 1px;font-weight:300;font-size:15px}#store-container #opening-hours,.paragraph,p{font-size:14px}.bg-menu{z-index:0;position:relative;top:-128px;width:90%}.bg-menu-container{top:0;position:relative;height:0}.news-caption{background:0 0}#about-us,#store-location,.news-caption-container,.product-container{background-repeat:no-repeat}.news-caption h3{margin-top:60px}.news-caption-container{position:absolute;top:240px;background-image:url(../img/bg-news-caption.png);background-position:center;background-size:contain}h3{text-align:center;margin-bottom:0}.paragraph{padding:24px 24px 0;font-weight:300;line-height:18px;text-align:justify;word-spacing:-.9px;letter-spacing:-.4px;margin-bottom:12px}.paragraph.right{padding-right:20px}.paragraph.left{padding-left:0}.paragraph.home{height:114px;padding:24px 0 0}.main-img{border-top:0 hidden #fff;border-right:15px solid #fff;border-bottom:15px solid #fff;border-left:15px solid #fff;-webkit-box-shadow:0 2px 5px 0 rgba(0,0,0,.12);box-shadow:0 2px 5px 0 rgba(0,0,0,.12);width:900px;height:auto}.store-map{padding-top:24px;width:200px;height:auto}.store-map>iframe{border:thin solid var(--highlight);width:100%;height:auto}.border-left{border-left:1px solid var(--highlight);padding-left:18px}#about-us{background-image:url(../img/wheat-left.png);background-position:right;display:block}#store-location{background-image:url(../img/wheat-right.png);background-position:left;display:block}#html-container .flex-column{width:250px;height:80px;z-index:5}.flex-column-before{position:absolute;left:0;bottom:55px}.flex-column-after{position:absolute;right:0;bottom:55px}.nav-tabs{border-bottom:1px solid var(--highlight)}.nav-tabs .nav-item.show .nav-link,.nav-tabs .nav-link.active{border-color:var(--highlight)var(--highlight)#fff}.nav-tabs .nav-link:focus,.nav-tabs .nav-link:hover{border-color:var(--highlight)var(--highlight)transparent}.product-container{background-image:url(../img/wheat-long-line.png);background-position:bottom}#nav-tabContent .product-container:last-of-type{background-image:none}#store-container .store-map{width:100%;height:auto;padding-top:0}#store-container .store-map>iframe{width:100%;height:25vmax}#store-container #opening-hours th{text-align:left}#store-container address{font-size:14px;margin-bottom:0}#store-container .list-group .list-group-item{width:100%;height:auto}}@media (min-width:1200px){.wrapper{min-height:100vh}#html-container .navbar{height:80px}.flex-column-before{left:70px;bottom:50px}.flex-column-after{right:70px;bottom:55px}.main-img{border-top:0 hidden #fff;border-right:20px solid #fff;border-bottom:20px solid #fff;border-left:20px solid #fff;-webkit-box-shadow:0 2px 5px 0 rgba(0,0,0,.12);box-shadow:0 2px 5px 0 rgba(0,0,0,.12);width:1000px;height:560px}.news-caption{background:0 0}.news-caption h3{margin-top:60px}.news-caption-container{position:absolute;top:320px;background-image:url(../img/bg-news-caption.png);background-repeat:no-repeat;background-position:center;background-size:contain}h3{text-align:center;margin-bottom:0}.paragraph{padding:24px 24px 0;font-weight:300;line-height:18px;font-size:15px;text-align:justify;word-spacing:-.9px;letter-spacing:-.4px;margin-bottom:12px}.paragraph.right{padding-right:20px}.paragraph.left{padding-left:0}.paragraph.home{height:114px;padding:24px 24px 0}#navbar-top{z-index:2;max-width:1046px;margin:auto;position:relative;padding:0}#navbar-top-toggle{padding:8px 10px}.ribbon{width:1046px;height:80px;min-width:1046px}.ribbon-bottom{width:auto;position:absolute;background:0 0;height:80px;margin:auto;min-width:auto}.ribbon-bottom::after,.ribbon-bottom::before{content:"";position:absolute;display:block;bottom:44px;border:15px solid #be7974;z-index:-1}.ribbon-bottom::after{right:-275px;border-left-width:30px;border-right-color:transparent}.ribbon-bottom::before{left:-25px;border-right-width:30px;border-left-color:transparent}.main-logo{width:250px;height:auto;top:-82px;position:relative;z-index:2}.logo-bg{position:absolute;top:calc(30px - (300px * .5));width:300px;height:300px;left:calc(50% - (300px * .5));z-index:1}#main-menu{background-image:url(../img/nav-bg-white.svg);background-size:contain;background-position:center;background-repeat:no-repeat}#main-menu.navbar-nav{height:80px;padding:0 5px}#main-menu .nav-item{width:12%;font-weight:300;font-size:17px}#main-menu .nav-item:nth-of-type(3){width:27%}.nav-link.btn{outline-offset:-5px;outline:#fff dashed 1px}.bg-menu{z-index:0;position:relative;top:-128px}.bg-menu-container{top:0;position:relative;height:0}#store-container #opening-hours,#store-container address{font-size:1.2rem}p{font-size:inherit}.store-map>iframe{width:200px;height:114px}#store-container .store-map>iframe{width:100%;height:25vmax}}
+@import url(https://fonts.googleapis.com/css?family=Merriweather:300,400,400i,700|Montserrat:800|Great+Vibes);
+:root {
+    --highlight: #ef8379;
+    --hover: #be7974;
+    font-size: 15px
+}
+
+#html-container {
+    background: -webkit-gradient(linear, left bottom, right top, from(#eacda3), to(#d6ae7b));
+    background: -webkit-linear-gradient(bottom left, #eacda3, #d6ae7b);
+    background: -o-linear-gradient(bottom left, #eacda3, #d6ae7b);
+    background: linear-gradient(to top right, #eacda3, #d6ae7b);
+    width: 100%;
+    font-size: 100%;
+    -ms-text-size-adjust: 100%;
+    -webkit-text-size-adjust: 100%;
+    font-variant-ligatures: none;
+    -webkit-font-variant-ligatures: none;
+    text-rendering: optimizeLegibility;
+    -moz-osx-font-smoothing: grayscale;
+    font-smoothing: antialiased;
+    -webkit-font-smoothing: antialiased;
+    text-shadow: rgba(0, 0, 0, .01) 0 0 1px
+}
+
+#html-container>body {
+    background: -webkit-repeating-linear-gradient(left, rgba(214, 174, 123, .2), rgba(214, 174, 123, .2) 5%, rgba(255, 255, 255, .2) 5%, rgba(255, 255, 255, .2) 10%);
+    background: -o-repeating-linear-gradient(left, rgba(214, 174, 123, .2), rgba(214, 174, 123, .2) 5%, rgba(255, 255, 255, .2) 5%, rgba(255, 255, 255, .2) 10%);
+    background: repeating-linear-gradient(to right, rgba(214, 174, 123, .2), rgba(214, 174, 123, .2) 5%, rgba(255, 255, 255, .2) 5%, rgba(255, 255, 255, .2) 10%);
+    background-blend-mode: multiply;
+    width: 100%;
+    font-family: Merriweather, serif;
+    overflow-x: hidden
+}
+
+.btn,
+button {
+    background-color: var(--highlight);
+    color: #fff
+}
+
+.btn:hover,
+button:hover {
+    background-color: var(--hover);
+    color: #fff
+}
+
+a.btn:hover {
+    color: #fff
+}
+
+a,
+h1,
+h2,
+h3,
+h4,
+h5 {
+    color: var(--highlight)
+}
+
+a:hover {
+    color: var(--hover);
+    text-decoration: none
+}
+
+h1,
+h2,
+h3,
+h4 {
+    font-family: 'Great Vibes', cursive
+}
+
+h5 {
+    font-family: Merriweather, serif;
+    font-weight: 700;
+    font-size: 15px;
+    margin-bottom: .1rem
+}
+
+.nav-link {
+    color: #fff
+}
+
+.nav-link.invert,
+.nav-link:hover {
+    color: var(--hover)
+}
+
+.navbar .navbar-toggle .navbar-toggler-icon,
+.navbar-toggle.collapsed,
+.store-adress-field a,
+.store-adress-field h4 {
+    color: #fff
+}
+
+#html-container .fa {
+    font-size: 25px
+}
+
+#html-container .footer {
+    width: 100%;
+    height: auto;
+    position: relative;
+    bottom: 0;
+    background: 0 0;
+    max-width: 1680px
+}
+
+.content,
+.navigation {
+    width: 80%;
+    margin: auto;
+    position: relative
+}
+
+#html-container .footer .navbar-nav:first-of-type {
+    background-color: var(--highlight)
+}
+
+.wrapper {
+    background: #fff;
+    max-width: 1200px;
+    height: 100%;
+    margin: auto;
+    -webkit-box-shadow: 0 0 20px 0 rgba(0, 0, 0, .3);
+    box-shadow: 0 0 20px 0 rgba(0, 0, 0, .3)
+}
+
+.navigation {
+    height: 20%;
+    background: rgba(255, 255, 255, .5)
+}
+
+.content {
+    height: 40%;
+    background: rgba(77, 77, 77, .5);
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-orient: horizontal;
+    -webkit-box-direction: normal;
+    -ms-flex-direction: row;
+    flex-direction: row;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap
+}
+
+.content-box {
+    width: calc(90% / 3);
+    height: 100%;
+    position: relative;
+    background: rgba(33, 33, 33, .5);
+    float: left;
+    margin: 0 calc(5% / 3)
+}
+
+.info {
+    height: 30%;
+    width: 80%;
+    position: relative;
+    margin: auto;
+    background: red
+}
+
+.info-content {
+    height: 100%;
+    width: calc(93% / 2);
+    position: relative;
+    float: left;
+    background: #fff;
+    margin: 0 calc(3.5% / 2)
+}
+
+.frontpage_square {
+    position: relative;
+    overflow: hidden;
+    padding-bottom: 100%
+}
+
+.frontpage_square img,
+.gm-logo {
+    position: absolute
+}
+
+.container-fluid {
+    padding: 0
+}
+
+.gm-logo {
+    width: auto;
+    height: 50px;
+    z-index: 100;
+    left: 10px;
+    top: 10px;
+    margin: auto
+}
+
+#html-container .footer .navbar {
+    background-color: #fff
+}
+
+#html-container #navbar-top,
+.store-adress-field {
+    background-color: var(--highlight)
+}
+
+table#opening-hours,
+table#opening-hours td,
+table#opening-hours th {
+    padding: 0;
+    border: 0
+}
+
+table#opening-hours th {
+    font-weight: 400
+}
+
+table#opening-hours td {
+    text-align: right
+}
+
+.bg-menu-container {
+    display: none
+}
+
+#main-menu .nav-item {
+    width: 20%;
+    font-weight: 300;
+    font-size: 17px
+}
+
+.navbar-dark .navbar-toggler {
+    color: #fff;
+    border-color: #fff
+}
+
+.navbar-dark .navbar-toggler-icon {
+    display: inline-block;
+    width: 1.5em;
+    height: 1.5em;
+    vertical-align: middle;
+    content: "";
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 100%;
+    background-attachment: scroll;
+    background-origin: padding-box;
+    background-clip: padding-box;
+    background-color: rgba(0, 0, 0, 0)
+}
+
+.news-caption-container {
+    position: absolute;
+    top: 130px;
+    background-image: url(../img/bg-news-caption.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain
+}
+
+.policy li {
+    font-weight: 300;
+    line-height: 18px;
+    font-size: 14px
+}
+
+@media (max-width:575px) {
+    #home-news,
+    #home-news>div {
+        margin-left: 0;
+        margin-right: 0
+    }
+    #home-news>div,
+    .container {
+        padding-left: 0;
+        padding-right: 0
+    }
+    #html-container {
+        background: 0 0
+    }
+    #html-container>body {
+        background: 0 0;
+        background-blend-mode: normal
+    }
+    #html-container .footer {
+        width: 100%;
+        height: 40px;
+        position: fixed;
+        bottom: 0;
+        background: 0 0;
+        left: 0
+    }
+    #html-container .footer .flex-column {
+        width: 100%
+    }
+    #html-container .footer .navbar {
+        padding: 0
+    }
+    .flex-column-after,
+    .flex-column-before {
+        display: none
+    }
+    .wrapper {
+        -webkit-box-shadow: none;
+        box-shadow: none
+    }
+    #home-news {
+        height: calc(100vh - 69px);
+        z-index: 1000
+    }
+    .news-caption {
+        padding-top: 15vh
+    }
+    .news-caption h3 {
+        margin-top: 0
+    }
+    .news-caption p {
+        height: 50vh;
+        background-color: #fff
+    }
+    .paragraph {
+        padding: 24px 24px 0;
+        font-weight: 300;
+        line-height: 18px;
+        font-size: 14px;
+        text-align: justify;
+        word-spacing: 0;
+        letter-spacing: -.4px;
+        margin-bottom: 10px
+    }
+    #about-us,
+    #store-location {
+        position: relative;
+        height: 100vh;
+        left: 0;
+        background-color: #fff;
+        padding-top: 5vh;
+        border-top: solid 8px var(--highlight)
+    }
+    #location,
+    #opening-hours {
+        padding: 6px 24px 0;
+        margin-bottom: 0
+    }
+    .news-caption-container {
+        background-size: cover;
+        bottom: 0
+    }
+    h1 {
+        line-height: 1
+    }
+    .lead {
+        font-size: 1rem
+    }
+    h3 {
+        text-align: center;
+        margin-bottom: 0
+    }
+    #about-us {
+        top: 101%;
+        display: block;
+        width: 100%
+    }
+    #store-location {
+        top: 201%
+    }
+    .store-map iframe {
+        width: 100%;
+        height: 25vmax;
+        padding-right: 24px;
+        padding-left: 24px
+    }
+    #store-container .store-map iframe {
+        margin-bottom: 34px;
+        height: 50vh;
+        padding: 0;
+        border-bottom: 0
+    }
+    #gt-details {
+        margin-bottom: 0
+    }
+    .nav-tabs {
+        border-bottom: 1px solid var(--highlight)
+    }
+    .nav-tabs .nav-item.show .nav-link,
+    .nav-tabs .nav-link.active {
+        border-color: var(--highlight)var(--highlight)#fff
+    }
+    .nav-tabs .nav-link:focus,
+    .nav-tabs .nav-link:hover {
+        border-color: var(--highlight)var(--highlight)transparent
+    }
+    .product-container {
+        background-image: url(../img/wheat-long-line.png);
+        background-repeat: no-repeat;
+        background-position: bottom;
+        background-size: 80%
+    }
+    #nav-tabContent .product-container:last-of-type {
+        background-image: none
+    }
+    #accordion {
+        padding-bottom: 103px;
+        border-top: 1px solid var(--highlight)
+    }
+    .card {
+        border-bottom: 1px solid var(--highlight);
+        border-radius: 0
+    }
+    .card:last-of-type {
+        border-bottom: 0
+    }
+    #philosophy-text .paragraph:first-of-type {
+        padding-top: 0
+    }
+    #philosophy-text .paragraph {
+        padding-top: 12px
+    }
+    h5+small {
+        display: none
+    }
+    #navbar-top.navbar {
+        padding: 0 0 .5rem;
+        border-bottom: solid 1px #fff
+    }
+    button.navbar-toggler {
+        margin: .75rem 1rem .5rem
+    }
+}
+
+@media (max-width:575px) and (orientation:landscape) {
+    .news-caption-container {
+        top: 30px;
+        background-size: cover;
+        height: 260px
+    }
+    .news-caption {
+        padding-top: 60px
+    }
+    .news-caption p {
+        background-color: transparent
+    }
+    #about-us .col-12 {
+        -webkit-box-flex: 0;
+        -ms-flex: 0 0 50%;
+        flex: 0 0 50%
+    }
+    .store-map iframe {
+        width: 50%
+    }
+    #shop-details {
+        position: absolute;
+        right: 5vw;
+        width: 50%;
+        bottom: 12vw
+    }
+    #store-container .store-map iframe {
+        width: 100%
+    }
+}
+
+@media (min-width:576px) {
+    #gt-details {
+        margin-bottom: 16%
+    }
+    .gm-logo {
+        width: 40%;
+        margin: 0 30%;
+        height: auto;
+        z-index: 100;
+        position: absolute;
+        left: 0;
+        top: 6px
+    }
+    .wrapper {
+        padding-top: 85px
+    }
+    .ribbon-container {
+        z-index: 0;
+        position: relative;
+        height: 0;
+        top: 85px
+    }
+    .ribbon {
+        width: 510px;
+        position: relative;
+        background: red;
+        height: 56px;
+        margin: auto;
+        min-width: 510px
+    }
+    .ribbon::after,
+    .ribbon::before {
+        content: "";
+        position: absolute;
+        display: block;
+        bottom: -25px;
+        border: 25px solid #be7974;
+        z-index: -1
+    }
+    .ribbon::before {
+        left: -40px;
+        border-right-width: 40px;
+        border-left-color: transparent
+    }
+    .ribbon::after {
+        right: -40px;
+        border-left-width: 40px;
+        border-right-color: transparent
+    }
+    .ribbon .ribbon-fold:after,
+    .ribbon .ribbon-fold:before {
+        content: "";
+        position: absolute;
+        display: block;
+        border-style: solid;
+        border-color: #9d4740 transparent transparent;
+        bottom: -25px
+    }
+    .ribbon .ribbon-fold:before {
+        left: 0;
+        border-width: 25px 0 0 25px
+    }
+    .ribbon .ribbon-fold:after {
+        right: 0;
+        border-width: 25px 25px 0 0
+    }
+    .news-caption {
+        background: 0 0
+    }
+    .news-caption h3 {
+        margin-top: 60px
+    }
+    .news-caption-container {
+        position: absolute;
+        top: 55px;
+        background-image: url(../img/bg-news-caption.png);
+        background-repeat: no-repeat;
+        background-position: center;
+        background-size: contain
+    }
+    h3 {
+        text-align: center;
+        margin-bottom: 0
+    }
+    .paragraph {
+        padding: 24px 24px 0;
+        font-weight: 300;
+        line-height: 18px;
+        font-size: 14px;
+        text-align: justify;
+        word-spacing: -.9px;
+        letter-spacing: -.4px;
+        margin-bottom: 12px
+    }
+    .paragraph.right {
+        padding-right: 20px
+    }
+    .paragraph.left {
+        padding-left: 0
+    }
+    .paragraph.home {
+        height: 114px;
+        padding: 24px 0 0
+    }
+    .main-img {
+        border-top: 0 hidden #fff;
+        border-right: 15px solid #fff;
+        border-bottom: 15px solid #fff;
+        border-left: 15px solid #fff;
+        -webkit-box-shadow: 0 2px 5px 0 rgba(0, 0, 0, .12);
+        box-shadow: 0 2px 5px 0 rgba(0, 0, 0, .12);
+        width: 650px;
+        height: auto
+    }
+    .store-map {
+        padding-top: 24px;
+        width: 100%;
+        height: auto
+    }
+    .store-map>iframe {
+        border: thin solid var(--highlight);
+        width: 100%;
+        height: auto
+    }
+    .border-left {
+        border-left: 1px solid var(--highlight);
+        padding-left: 18px
+    }
+    #html-container .flex-column {
+        width: 250px;
+        height: 80px;
+        z-index: 5
+    }
+    .flex-column-before {
+        position: absolute;
+        left: 0;
+        bottom: 55px
+    }
+    .flex-column-after {
+        position: absolute;
+        right: 0;
+        bottom: 55px
+    }
+    #store-container .list-group .list-group-item {
+        width: 100%;
+        height: auto
+    }
+    .nav-tabs {
+        border-bottom: 1px solid var(--highlight)
+    }
+    .nav-tabs .nav-item.show .nav-link,
+    .nav-tabs .nav-link.active {
+        border-color: var(--highlight)var(--highlight)#fff
+    }
+    .nav-tabs .nav-link:focus,
+    .nav-tabs .nav-link:hover {
+        border-color: var(--highlight)var(--highlight)transparent
+    }
+    .product-container {
+        background-image: url(../img/wheat-long-line.png);
+        background-repeat: no-repeat;
+        background-position: bottom
+    }
+    #nav-tabContent .product-container:last-of-type {
+        background-image: none
+    }
+}
+
+@media (min-width:576px) and (max-width:767px) {
+    #myTab h2 {
+        font-size: 1.5rem
+    }
+    .wrapper {
+        padding-top: 50px
+    }
+    .ribbon-container {
+        top: 50px
+    }
+}
+
+@media (min-width:768px) {
+    .collapse {
+        display: block
+    }
+    .wrapper {
+        padding-bottom: 70px;
+        max-width: 768px
+    }
+    .ribbon-container {
+        z-index: 0;
+        position: relative;
+        height: 0;
+        top: 85px
+    }
+    .ribbon,
+    .ribbon-bottom {
+        height: 80px;
+        margin: auto
+    }
+    .ribbon {
+        width: 690px;
+        position: relative;
+        background: red;
+        min-width: 690px
+    }
+    .ribbon::after,
+    .ribbon::before {
+        content: "";
+        position: absolute;
+        display: block;
+        bottom: -25px;
+        border: 40px solid #be7974;
+        z-index: -1
+    }
+    .ribbon::before {
+        left: -55px;
+        border-right-width: 40px;
+        border-left-color: transparent
+    }
+    .ribbon::after {
+        right: -55px;
+        border-left-width: 40px;
+        border-right-color: transparent
+    }
+    .ribbon .ribbon-fold:after,
+    .ribbon .ribbon-fold:before {
+        content: "";
+        position: absolute;
+        display: block;
+        border-style: solid;
+        border-color: #9d4740 transparent transparent;
+        bottom: -25px
+    }
+    .ribbon .ribbon-fold:before {
+        left: 0;
+        border-width: 25px 0 0 25px
+    }
+    .ribbon .ribbon-fold:after {
+        right: 0;
+        border-width: 25px 25px 0 0
+    }
+    .ribbon-bottom {
+        width: auto;
+        position: absolute;
+        background: 0 0;
+        min-width: auto
+    }
+    .ribbon-bottom::after,
+    .ribbon-bottom::before {
+        content: "";
+        position: absolute;
+        display: block;
+        bottom: 44px;
+        border: 15px solid #be7974;
+        z-index: -1
+    }
+    .ribbon-bottom::after {
+        right: -275px;
+        border-left-width: 30px;
+        border-right-color: transparent
+    }
+    .ribbon-bottom::before {
+        left: -25px;
+        border-right-width: 30px;
+        border-left-color: transparent
+    }
+    .main-logo {
+        width: 170px;
+        height: auto;
+        top: -100px;
+        position: relative;
+        z-index: 2
+    }
+    .logo-bg {
+        position: absolute;
+        top: calc(30px - (300px * .5));
+        width: 300px;
+        height: 300px;
+        left: calc(50% - (300px * .5));
+        z-index: 1
+    }
+    #main-menu {
+        background-image: url(../img/nav-bg-white.svg);
+        background-size: contain;
+        background-position: center;
+        background-repeat: no-repeat
+    }
+    #main-menu.navbar-nav {
+        height: 64px;
+        padding: 0 5px
+    }
+    .nav-link.btn {
+        outline-offset: -5px;
+        outline: #fff dashed 1px;
+        font-weight: 300;
+        font-size: 13px
+    }
+    #store-container #opening-hours,
+    .paragraph,
+    p {
+        font-size: 14px
+    }
+    .bg-menu {
+        z-index: 0;
+        position: relative;
+        top: -108px;
+        width: 90%
+    }
+    .bg-menu-container {
+        top: 0;
+        position: relative;
+        height: 0;
+        display: block
+    }
+    .news-caption {
+        background: 0 0
+    }
+    .news-caption h3 {
+        margin-top: 60px
+    }
+    .news-caption-container {
+        position: absolute;
+        top: 130px;
+        background-image: url(../img/bg-news-caption.png);
+        background-repeat: no-repeat;
+        background-position: center;
+        background-size: contain
+    }
+    h3 {
+        text-align: center;
+        margin-bottom: 0
+    }
+    .paragraph {
+        padding: 24px 24px 0;
+        font-weight: 300;
+        line-height: 18px;
+        text-align: justify;
+        word-spacing: -.9px;
+        letter-spacing: -.4px;
+        margin-bottom: 12px
+    }
+    .paragraph.right {
+        padding-right: 20px
+    }
+    .paragraph.left {
+        padding-left: 0
+    }
+    .paragraph.home {
+        height: 114px;
+        padding: 24px 0 0
+    }
+    .main-img {
+        border-top: 0 hidden #fff;
+        border-right: 15px solid #fff;
+        border-bottom: 15px solid #fff;
+        border-left: 15px solid #fff;
+        -webkit-box-shadow: 0 2px 5px 0 rgba(0, 0, 0, .12);
+        box-shadow: 0 2px 5px 0 rgba(0, 0, 0, .12);
+        width: 650px;
+        height: auto
+    }
+    .store-map {
+        padding-top: 24px;
+        width: 100%;
+        height: auto
+    }
+    .store-map>iframe {
+        border: thin solid var(--highlight);
+        width: 100%;
+        height: auto
+    }
+    .border-left {
+        border-left: 1px solid var(--highlight);
+        padding-left: 18px
+    }
+    #html-container .flex-column {
+        width: 250px;
+        height: 80px;
+        z-index: 5
+    }
+    .flex-column-before {
+        position: absolute;
+        left: 0;
+        bottom: 55px
+    }
+    .flex-column-after {
+        position: absolute;
+        right: 0;
+        bottom: 55px
+    }
+    .nav-tabs {
+        border-bottom: 1px solid var(--highlight)
+    }
+    .nav-tabs .nav-item.show .nav-link,
+    .nav-tabs .nav-link.active {
+        border-color: var(--highlight)var(--highlight)#fff
+    }
+    .nav-tabs .nav-link:focus,
+    .nav-tabs .nav-link:hover {
+        border-color: var(--highlight)var(--highlight)transparent
+    }
+    .product-container {
+        background-image: url(../img/wheat-long-line.png);
+        background-repeat: no-repeat;
+        background-position: bottom
+    }
+    #nav-tabContent .product-container:last-of-type {
+        background-image: none
+    }
+    #store-container .store-map {
+        width: 100%;
+        height: auto;
+        padding-top: 0
+    }
+    #store-container #opening-hours th {
+        text-align: left
+    }
+    #store-container address {
+        font-size: 14px;
+        margin-bottom: 0
+    }
+    #store-container .list-group .list-group-item {
+        width: 100%;
+        height: auto
+    }
+}
+
+@media (min-width:992px) {
+    .wrapper {
+        max-width: 1200px
+    }
+    .ribbon-container {
+        z-index: 0;
+        position: relative;
+        height: 0;
+        top: 85px
+    }
+    .ribbon,
+    .ribbon-bottom {
+        height: 80px;
+        margin: auto
+    }
+    .ribbon {
+        width: 930px;
+        position: relative;
+        background: red;
+        min-width: 930px
+    }
+    .ribbon::after,
+    .ribbon::before {
+        content: "";
+        position: absolute;
+        display: block;
+        bottom: -25px;
+        border: 40px solid #be7974;
+        z-index: -1
+    }
+    .ribbon::before {
+        left: -55px;
+        border-right-width: 40px;
+        border-left-color: transparent
+    }
+    .ribbon::after {
+        right: -55px;
+        border-left-width: 40px;
+        border-right-color: transparent
+    }
+    .ribbon .ribbon-fold:after,
+    .ribbon .ribbon-fold:before {
+        content: "";
+        position: absolute;
+        display: block;
+        border-style: solid;
+        border-color: #9d4740 transparent transparent;
+        bottom: -25px
+    }
+    .ribbon .ribbon-fold:before {
+        left: 0;
+        border-width: 25px 0 0 25px
+    }
+    .ribbon .ribbon-fold:after {
+        right: 0;
+        border-width: 25px 25px 0 0
+    }
+    .ribbon-bottom {
+        width: auto;
+        position: absolute;
+        background: 0 0;
+        min-width: auto
+    }
+    .ribbon-bottom::after,
+    .ribbon-bottom::before {
+        content: "";
+        position: absolute;
+        display: block;
+        bottom: 44px;
+        border: 15px solid #be7974;
+        z-index: -1
+    }
+    .ribbon-bottom::after {
+        right: -275px;
+        border-left-width: 30px;
+        border-right-color: transparent
+    }
+    .ribbon-bottom::before {
+        left: -25px;
+        border-right-width: 30px;
+        border-left-color: transparent
+    }
+    .main-logo {
+        width: 220px;
+        height: auto;
+        top: -100px;
+        position: relative;
+        z-index: 2
+    }
+    .logo-bg {
+        position: absolute;
+        top: calc(30px - (300px * .5));
+        width: 300px;
+        height: 300px;
+        left: calc(50% - (300px * .5));
+        z-index: 1
+    }
+    #main-menu {
+        background-image: url(../img/nav-bg-white.svg);
+        background-size: contain;
+        background-position: center;
+        background-repeat: no-repeat
+    }
+    #main-menu.navbar-nav {
+        height: 65px;
+        padding: 0 5px
+    }
+    .nav-link.btn {
+        outline-offset: -5px;
+        outline: #fff dashed 1px;
+        font-weight: 300;
+        font-size: 15px
+    }
+    #store-container #opening-hours,
+    .paragraph,
+    p {
+        font-size: 14px
+    }
+    .bg-menu {
+        z-index: 0;
+        position: relative;
+        top: -128px;
+        width: 90%
+    }
+    .bg-menu-container {
+        top: 0;
+        position: relative;
+        height: 0
+    }
+    .news-caption {
+        background: 0 0
+    }
+    #about-us,
+    #store-location,
+    .news-caption-container,
+    .product-container {
+        background-repeat: no-repeat
+    }
+    .news-caption h3 {
+        margin-top: 60px
+    }
+    .news-caption-container {
+        position: absolute;
+        top: 240px;
+        background-image: url(../img/bg-news-caption.png);
+        background-position: center;
+        background-size: contain
+    }
+    h3 {
+        text-align: center;
+        margin-bottom: 0
+    }
+    .paragraph {
+        padding: 24px 24px 0;
+        font-weight: 300;
+        line-height: 18px;
+        text-align: justify;
+        word-spacing: -.9px;
+        letter-spacing: -.4px;
+        margin-bottom: 12px
+    }
+    .paragraph.right {
+        padding-right: 20px
+    }
+    .paragraph.left {
+        padding-left: 0
+    }
+    .paragraph.home {
+        height: 114px;
+        padding: 24px 0 0
+    }
+    .main-img {
+        border-top: 0 hidden #fff;
+        border-right: 15px solid #fff;
+        border-bottom: 15px solid #fff;
+        border-left: 15px solid #fff;
+        -webkit-box-shadow: 0 2px 5px 0 rgba(0, 0, 0, .12);
+        box-shadow: 0 2px 5px 0 rgba(0, 0, 0, .12);
+        width: 900px;
+        height: auto
+    }
+    .store-map {
+        padding-top: 24px;
+        width: 200px;
+        height: auto
+    }
+    .store-map>iframe {
+        border: thin solid var(--highlight);
+        width: 100%;
+        height: auto
+    }
+    .border-left {
+        border-left: 1px solid var(--highlight);
+        padding-left: 18px
+    }
+    #about-us {
+        background-image: url(../img/wheat-left.png);
+        background-position: right;
+        display: block
+    }
+    #store-location {
+        background-image: url(../img/wheat-right.png);
+        background-position: left;
+        display: block
+    }
+    #html-container .flex-column {
+        width: 250px;
+        height: 80px;
+        z-index: 5
+    }
+    .flex-column-before {
+        position: absolute;
+        left: 0;
+        bottom: 55px
+    }
+    .flex-column-after {
+        position: absolute;
+        right: 0;
+        bottom: 55px
+    }
+    .nav-tabs {
+        border-bottom: 1px solid var(--highlight)
+    }
+    .nav-tabs .nav-item.show .nav-link,
+    .nav-tabs .nav-link.active {
+        border-color: var(--highlight)var(--highlight)#fff
+    }
+    .nav-tabs .nav-link:focus,
+    .nav-tabs .nav-link:hover {
+        border-color: var(--highlight)var(--highlight)transparent
+    }
+    .product-container {
+        background-image: url(../img/wheat-long-line.png);
+        background-position: bottom
+    }
+    #nav-tabContent .product-container:last-of-type {
+        background-image: none
+    }
+    #store-container .store-map {
+        width: 100%;
+        height: auto;
+        padding-top: 0
+    }
+    #store-container .store-map>iframe {
+        width: 100%;
+        height: 25vmax
+    }
+    #store-container #opening-hours th {
+        text-align: left
+    }
+    #store-container address {
+        font-size: 14px;
+        margin-bottom: 0
+    }
+    #store-container .list-group .list-group-item {
+        width: 100%;
+        height: auto
+    }
+}
+
+@media (min-width:1200px) {
+    .wrapper {
+        min-height: 100vh
+    }
+    #html-container .navbar {
+        height: 80px
+    }
+    .flex-column-before {
+        left: 70px;
+        bottom: 50px
+    }
+    .flex-column-after {
+        right: 70px;
+        bottom: 55px
+    }
+    .main-img {
+        border-top: 0 hidden #fff;
+        border-right: 20px solid #fff;
+        border-bottom: 20px solid #fff;
+        border-left: 20px solid #fff;
+        -webkit-box-shadow: 0 2px 5px 0 rgba(0, 0, 0, .12);
+        box-shadow: 0 2px 5px 0 rgba(0, 0, 0, .12);
+        width: 1000px;
+        height: 560px
+    }
+    .news-caption {
+        background: 0 0
+    }
+    .news-caption h3 {
+        margin-top: 60px
+    }
+    .news-caption-container {
+        position: absolute;
+        top: 320px;
+        background-image: url(../img/bg-news-caption.png);
+        background-repeat: no-repeat;
+        background-position: center;
+        background-size: contain
+    }
+    h3 {
+        text-align: center;
+        margin-bottom: 0
+    }
+    .paragraph {
+        padding: 24px 24px 0;
+        font-weight: 300;
+        line-height: 18px;
+        font-size: 15px;
+        text-align: justify;
+        word-spacing: -.9px;
+        letter-spacing: -.4px;
+        margin-bottom: 12px
+    }
+    .paragraph.right {
+        padding-right: 20px
+    }
+    .paragraph.left {
+        padding-left: 0
+    }
+    .paragraph.home {
+        height: 114px;
+        padding: 24px 24px 0
+    }
+    #navbar-top {
+        z-index: 2;
+        max-width: 1046px;
+        margin: auto;
+        position: relative;
+        padding: 0
+    }
+    #navbar-top-toggle {
+        padding: 8px 10px
+    }
+    .ribbon {
+        width: 1046px;
+        height: 80px;
+        min-width: 1046px
+    }
+    .ribbon-bottom {
+        width: auto;
+        position: absolute;
+        background: 0 0;
+        height: 80px;
+        margin: auto;
+        min-width: auto
+    }
+    .ribbon-bottom::after,
+    .ribbon-bottom::before {
+        content: "";
+        position: absolute;
+        display: block;
+        bottom: 44px;
+        border: 15px solid #be7974;
+        z-index: -1
+    }
+    .ribbon-bottom::after {
+        right: -275px;
+        border-left-width: 30px;
+        border-right-color: transparent
+    }
+    .ribbon-bottom::before {
+        left: -25px;
+        border-right-width: 30px;
+        border-left-color: transparent
+    }
+    .main-logo {
+        width: 250px;
+        height: auto;
+        top: -82px;
+        position: relative;
+        z-index: 2
+    }
+    .logo-bg {
+        position: absolute;
+        top: calc(30px - (300px * .5));
+        width: 300px;
+        height: 300px;
+        left: calc(50% - (300px * .5));
+        z-index: 1
+    }
+    #main-menu {
+        background-image: url(../img/nav-bg-white.svg);
+        background-size: contain;
+        background-position: center;
+        background-repeat: no-repeat
+    }
+    #main-menu.navbar-nav {
+        height: 80px;
+        padding: 0 5px
+    }
+    .nav-link.btn {
+        outline-offset: -5px;
+        outline: #fff dashed 1px
+    }
+    .bg-menu {
+        z-index: 0;
+        position: relative;
+        top: -128px
+    }
+    .bg-menu-container {
+        top: 0;
+        position: relative;
+        height: 0
+    }
+    #store-container #opening-hours,
+    #store-container address {
+        font-size: 1.2rem
+    }
+    p {
+        font-size: inherit
+    }
+    .store-map>iframe {
+        width: 200px;
+        height: 114px
+    }
+    #store-container .store-map>iframe {
+        width: 100%;
+        height: 25vmax
+    }
+}
