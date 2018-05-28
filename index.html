@@ -11,9 +11,8 @@
     <link rel="stylesheet" href="css/styles-min.css">
     <script src="https://use.fontawesome.com/f79d2fe334.js"></script>
     <script>
-        // Picture element HTML5 shiv
-        document.createElement("picture");
-
+    // Picture element HTML5 shiv
+    document.createElement("picture");
     </script>
 </head>
 
@@ -26,36 +25,40 @@
     <div class="wrapper">
         <div class="container">
             <div class="text-center bg-menu-container">
-                <img class="bg-menu" src="img/bg-farm-green.png" alt="Green Farm Fields">
+                <img class="bg-menu" src="img/bg-farm-red.png" alt="Green Farm Fields">
             </div>
             <nav id="navbar-top" class="navbar navbar-dark navbar-expand-md justify-content-end">
                 <a class="navbar-brand d-block d-md-none" href="index.html">
     <img src="img/gt-vector-logo.png" class="d-inline-block align-top gm-logo" alt="Grandmas Treasures Mobile Logo"><span class="sr-only">(current)</span>
   </a>
                 <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbar-top-toggle" aria-controls="navbar-top-toggle" aria-expanded="false" aria-label="Toggle navigation">
-    <span class="navbar-toggler-icon"></span>
-  </button>
+                    <span class="navbar-toggler-icon"></span>
+                </button>
                 <div class="collapse navbar-collapse justify-content-center" id="navbar-top-toggle">
                     <ul id="main-menu" class="navbar-nav m-auto justify-content-center w-100 text-center">
                         <li class="nav-item active m-auto">
                             <a class="nav-link btn" href="products.html">Products </a>
                         </li>
-                        <li class="nav-item d-none d-md-block m-auto">
+                        <li class="nav-item active m-auto">
+                            <a class="nav-link btn" href="menu.html">Menu </a>
+                        </li>
+                        <li class="nav-item d-none d-md-block m-auto logo">
                             <h1>
                                 <a id="grandmas-treasures-logo" class="nav-link" title="Grandma's Treasures - Delray Beach, Florida" href="gthome.html"><img class="main-logo" alt="Grandma's Treasures - Authentic German Food, Farm inspired Recipes" src="img/gt-png.png"><span class="sr-only">(current)</span></a>
                             </h1>
+                        </li>
+                        <li class="nav-item active m-auto">
+                            <a class="nav-link btn" href="classes.html">Classes</a>
                         </li>
                         <li class="nav-item active m-auto">
                             <a class="nav-link btn" href="philosophy.html">Philosophy</a>
                         </li>
                     </ul>
                 </div>
-
             </nav>
-
             <div id="home-news" class="row mt-0">
                 <div class="col-12 col-xl-12 col-md-12 text-center">
-                    <div class="row news-caption-container">
+                    <div class="row news-caption-container" style="display: none;">
                         <div class="col-xl-4 col-lg-4 col-sm-8 offset-xl-4 offset-lg-4 offset-md-3 col-md-6 offset-sm-2">
                             <div class="news-caption">
                                 <h3>Let's celebrate!</h3>
@@ -80,15 +83,30 @@
                     </p>
                     <div class="row text-center no-gutters p-4">
                         <div class="col-12 p-1">
-                            <a href="products-test.html" role="button" class="btn w-100">Products</a>
+                            <a href="products.html" role="button" class="btn w-100">Products</a>
                         </div>
                     </div>
                 </div>
                 <div id="store-location" class="col-xl-5 col-lg-6 mt-sm-4 mt-lg-0">
                     <h3>
-                        German Bakery & Cafe
+                        German Bakery
                     </h3>
                     <div class="row no-gutters">
+                        <div class="col-6">
+                            <p class="paragraph">Call now</p>
+                            <p class="paragraph">561-372-8908</p>
+                        </div>
+                        <div class="col-6">
+                            <p class="paragraph">Say Hello</p>
+                            <p class="paragraph"><a href="mailto:grandmas-treasures.us">info@grandmas-treasures.us</a></p>
+                        </div>
+                    </div>
+                    <div class="row text-center no-gutters p-4">
+                        <div class="col-12 p-1">
+                            <a href="Katalog.pdf" role="button" target="_blank" class="btn w-100">View our Catalog</a>
+                        </div>
+                    </div>
+                    <!--  <div class="row no-gutters">
                         <div class="col-xl-6 col-lg-6 col-md-6">
                             <p class="paragraph right">
                                 Come by at <a href="">Brotzeit</a> our local Delray Beach Bakery and have a taste of the variety of delights that are freshly made every day.
@@ -135,12 +153,25 @@
                             </div>
 
                         </div>
+                    </div> -->
+                </div>
+            </div>
+            <div class="row mt-sm-5">
+                <div class="col-xl-8 offset-xl-2 col-lg-6">
+                    <div class="paragraph">
+                        <h3>All Made in German Tradition</h3>
+                        <p>All Made in German Tradition We take pride in providing only the best products, made not only with natural and fresh ingredients, but also love. There are no preservatives or artificial ingredients, so you can feel good knowing that our sweet and savory treats are good for you and your family. </p>
+                        <p>We are also in the process of becoming USDA Certified Organic! </p>
+                        <h4>Flour</h4>
+                        <p>All of our flour for our baked goods comes directly from Gut Rosenkrantz, the largest organic flour mill in North Germany.</p>
+                        <div class="text-center col-12">
+                            <img src="img/gut-rosenkrantz-logo.png" alt="">
+                            <img src="img/usda-logo.png" alt="" style="width: 100px;">
+                        </div>
                     </div>
                 </div>
             </div>
-
             <footer class="footer">
-
                 <nav class="navbar navbar-expand justify-content-center">
                     <div class="flex-column-before">
                         <img src="img/wheat-ear-left-h.png" alt="Ear of Wheat Icon Left">
@@ -172,17 +203,11 @@
                     <div class="flex-column-after">
                         <img src="img/wheat-ear-right-h.png" alt="Ear of Wheat Icon Right">
                     </div>
-
                 </nav>
             </footer>
-
         </div>
     </div>
-
-
-
     <!-- JS Bootstrap -->
-
     <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.3/umd/popper.min.js" integrity="sha384-vFJXuSJphROIrBnz7yo7oB41mKfc8JzQZiCq4NCceLEaO4IHwicKwpJf9c9IpFgh" crossorigin="anonymous"></script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.2/js/bootstrap.min.js" integrity="sha384-alpBpkh1PFOepccYVYDB4do5UnbKysX5WZXm3XxPqe5iKTfUKjNkCk9SaVuEZflJ" crossorigin="anonymous"></script>
