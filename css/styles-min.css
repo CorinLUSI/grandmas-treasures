@@ -1,21 +1,11 @@
 @import url(https://fonts.googleapis.com/css?family=Merriweather:300,400,400i,700|Montserrat:800|Great+Vibes);
 :root {
-<<<<<<< HEAD
     --highlight: #e3000b; /*#ef8379*/ 
-=======
-    --highlight: #ef8379;
->>>>>>> 49c744abeb6ebec62ea377e0679b8343c099fab8
     --hover: #be7974;
     font-size: 15px
 }
 
 #html-container {
-<<<<<<< HEAD
-=======
-    background: -webkit-gradient(linear, left bottom, right top, from(#eacda3), to(#d6ae7b));
-    background: -webkit-linear-gradient(bottom left, #eacda3, #d6ae7b);
-    background: -o-linear-gradient(bottom left, #eacda3, #d6ae7b);
->>>>>>> 49c744abeb6ebec62ea377e0679b8343c099fab8
     background: linear-gradient(to top right, #eacda3, #d6ae7b);
     width: 100%;
     font-size: 100%;
@@ -32,10 +22,6 @@
 
 #html-container>body {
     background: -webkit-repeating-linear-gradient(left, rgba(214, 174, 123, .2), rgba(214, 174, 123, .2) 5%, rgba(255, 255, 255, .2) 5%, rgba(255, 255, 255, .2) 10%);
-<<<<<<< HEAD
-=======
-    background: -o-repeating-linear-gradient(left, rgba(214, 174, 123, .2), rgba(214, 174, 123, .2) 5%, rgba(255, 255, 255, .2) 5%, rgba(255, 255, 255, .2) 10%);
->>>>>>> 49c744abeb6ebec62ea377e0679b8343c099fab8
     background: repeating-linear-gradient(to right, rgba(214, 174, 123, .2), rgba(214, 174, 123, .2) 5%, rgba(255, 255, 255, .2) 5%, rgba(255, 255, 255, .2) 10%);
     background-blend-mode: multiply;
     width: 100%;
@@ -132,10 +118,6 @@ h5 {
     max-width: 1200px;
     height: 100%;
     margin: auto;
-<<<<<<< HEAD
-=======
-    -webkit-box-shadow: 0 0 20px 0 rgba(0, 0, 0, .3);
->>>>>>> 49c744abeb6ebec62ea377e0679b8343c099fab8
     box-shadow: 0 0 20px 0 rgba(0, 0, 0, .3)
 }
 
@@ -147,19 +129,8 @@ h5 {
 .content {
     height: 40%;
     background: rgba(77, 77, 77, .5);
-<<<<<<< HEAD
     display: flex;
     flex-direction: row;
-=======
-    display: -webkit-box;
-    display: -ms-flexbox;
-    display: flex;
-    -webkit-box-orient: horizontal;
-    -webkit-box-direction: normal;
-    -ms-flex-direction: row;
-    flex-direction: row;
-    -ms-flex-wrap: wrap;
->>>>>>> 49c744abeb6ebec62ea377e0679b8343c099fab8
     flex-wrap: wrap
 }
 
@@ -242,7 +213,6 @@ table#opening-hours td {
 }
 
 #main-menu .nav-item {
-<<<<<<< HEAD
     width: 15%;
     font-weight: 300;
     font-size: 17px;
@@ -259,11 +229,6 @@ table#opening-hours td {
 
 #main-menu .nav-item.logo {
     width: 40%;
-=======
-    width: 20%;
-    font-weight: 300;
-    font-size: 17px
->>>>>>> 49c744abeb6ebec62ea377e0679b8343c099fab8
 }
 
 .navbar-dark .navbar-toggler {
@@ -338,10 +303,6 @@ table#opening-hours td {
         display: none
     }
     .wrapper {
-<<<<<<< HEAD
-=======
-        -webkit-box-shadow: none;
->>>>>>> 49c744abeb6ebec62ea377e0679b8343c099fab8
         box-shadow: none
     }
     #home-news {
@@ -358,11 +319,7 @@ table#opening-hours td {
         height: 50vh;
         background-color: #fff
     }
-<<<<<<< HEAD
     .paragraph, #accordion span {
-=======
-    .paragraph {
->>>>>>> 49c744abeb6ebec62ea377e0679b8343c099fab8
         padding: 24px 24px 0;
         font-weight: 300;
         line-height: 18px;
@@ -485,11 +442,6 @@ table#opening-hours td {
         background-color: transparent
     }
     #about-us .col-12 {
-<<<<<<< HEAD
-=======
-        -webkit-box-flex: 0;
-        -ms-flex: 0 0 50%;
->>>>>>> 49c744abeb6ebec62ea377e0679b8343c099fab8
         flex: 0 0 50%
     }
     .store-map iframe {
@@ -507,12 +459,6 @@ table#opening-hours td {
 }
 
 @media (min-width:576px) {
-<<<<<<< HEAD
-=======
-    #gt-details {
-        margin-bottom: 16%
-    }
->>>>>>> 49c744abeb6ebec62ea377e0679b8343c099fab8
     .gm-logo {
         width: 40%;
         margin: 0 30%;
@@ -545,11 +491,7 @@ table#opening-hours td {
         position: absolute;
         display: block;
         bottom: -25px;
-<<<<<<< HEAD
         border: 25px solid #c10009; /*#be7974*/
-=======
-        border: 25px solid #be7974;
->>>>>>> 49c744abeb6ebec62ea377e0679b8343c099fab8
         z-index: -1
     }
     .ribbon::before {
@@ -568,11 +510,7 @@ table#opening-hours td {
         position: absolute;
         display: block;
         border-style: solid;
-<<<<<<< HEAD
         border-color: #8e0007 transparent transparent; /* #9d4740 */
-=======
-        border-color: #9d4740 transparent transparent;
->>>>>>> 49c744abeb6ebec62ea377e0679b8343c099fab8
         bottom: -25px
     }
     .ribbon .ribbon-fold:before {
@@ -626,10 +564,6 @@ table#opening-hours td {
         border-right: 15px solid #fff;
         border-bottom: 15px solid #fff;
         border-left: 15px solid #fff;
-<<<<<<< HEAD
-=======
-        -webkit-box-shadow: 0 2px 5px 0 rgba(0, 0, 0, .12);
->>>>>>> 49c744abeb6ebec62ea377e0679b8343c099fab8
         box-shadow: 0 2px 5px 0 rgba(0, 0, 0, .12);
         width: 650px;
         height: auto
@@ -731,11 +665,7 @@ table#opening-hours td {
         position: absolute;
         display: block;
         bottom: -25px;
-<<<<<<< HEAD
         border: 40px solid #c10009;
-=======
-        border: 40px solid #be7974;
->>>>>>> 49c744abeb6ebec62ea377e0679b8343c099fab8
         z-index: -1
     }
     .ribbon::before {
@@ -754,11 +684,7 @@ table#opening-hours td {
         position: absolute;
         display: block;
         border-style: solid;
-<<<<<<< HEAD
         border-color: #8e0007 transparent transparent;
-=======
-        border-color: #9d4740 transparent transparent;
->>>>>>> 49c744abeb6ebec62ea377e0679b8343c099fab8
         bottom: -25px
     }
     .ribbon .ribbon-fold:before {
@@ -781,11 +707,7 @@ table#opening-hours td {
         position: absolute;
         display: block;
         bottom: 44px;
-<<<<<<< HEAD
         border: 15px solid #c10009; /*#be7974*/
-=======
-        border: 15px solid #be7974;
->>>>>>> 49c744abeb6ebec62ea377e0679b8343c099fab8
         z-index: -1
     }
     .ribbon-bottom::after {
@@ -888,10 +810,6 @@ table#opening-hours td {
         border-right: 15px solid #fff;
         border-bottom: 15px solid #fff;
         border-left: 15px solid #fff;
-<<<<<<< HEAD
-=======
-        -webkit-box-shadow: 0 2px 5px 0 rgba(0, 0, 0, .12);
->>>>>>> 49c744abeb6ebec62ea377e0679b8343c099fab8
         box-shadow: 0 2px 5px 0 rgba(0, 0, 0, .12);
         width: 650px;
         height: auto
@@ -989,11 +907,7 @@ table#opening-hours td {
         position: absolute;
         display: block;
         bottom: -25px;
-<<<<<<< HEAD
         border: 40px solid #c10009;
-=======
-        border: 40px solid #be7974;
->>>>>>> 49c744abeb6ebec62ea377e0679b8343c099fab8
         z-index: -1
     }
     .ribbon::before {
@@ -1012,11 +926,7 @@ table#opening-hours td {
         position: absolute;
         display: block;
         border-style: solid;
-<<<<<<< HEAD
         border-color: #8e0007 transparent transparent;
-=======
-        border-color: #9d4740 transparent transparent;
->>>>>>> 49c744abeb6ebec62ea377e0679b8343c099fab8
         bottom: -25px
     }
     .ribbon .ribbon-fold:before {
@@ -1039,11 +949,7 @@ table#opening-hours td {
         position: absolute;
         display: block;
         bottom: 44px;
-<<<<<<< HEAD
         border: 15px solid #c10009;
-=======
-        border: 15px solid #be7974;
->>>>>>> 49c744abeb6ebec62ea377e0679b8343c099fab8
         z-index: -1
     }
     .ribbon-bottom::after {
@@ -1150,10 +1056,6 @@ table#opening-hours td {
         border-right: 15px solid #fff;
         border-bottom: 15px solid #fff;
         border-left: 15px solid #fff;
-<<<<<<< HEAD
-=======
-        -webkit-box-shadow: 0 2px 5px 0 rgba(0, 0, 0, .12);
->>>>>>> 49c744abeb6ebec62ea377e0679b8343c099fab8
         box-shadow: 0 2px 5px 0 rgba(0, 0, 0, .12);
         width: 900px;
         height: auto
@@ -1257,10 +1159,6 @@ table#opening-hours td {
         border-right: 20px solid #fff;
         border-bottom: 20px solid #fff;
         border-left: 20px solid #fff;
-<<<<<<< HEAD
-=======
-        -webkit-box-shadow: 0 2px 5px 0 rgba(0, 0, 0, .12);
->>>>>>> 49c744abeb6ebec62ea377e0679b8343c099fab8
         box-shadow: 0 2px 5px 0 rgba(0, 0, 0, .12);
         width: 1000px;
         height: 560px
@@ -1332,11 +1230,7 @@ table#opening-hours td {
         position: absolute;
         display: block;
         bottom: 44px;
-<<<<<<< HEAD
         border: 15px solid #c10009;
-=======
-        border: 15px solid #be7974;
->>>>>>> 49c744abeb6ebec62ea377e0679b8343c099fab8
         z-index: -1
     }
     .ribbon-bottom::after {
